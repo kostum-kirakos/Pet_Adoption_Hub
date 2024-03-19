@@ -8,9 +8,7 @@ Welcome to the Pet Adoption Hub! This project aims to connect adoptable pets wit
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- [Authors](#Authors)
 
 ## Features
 
@@ -51,6 +49,11 @@ To run the project locally, follow these steps:
    python app.py
 
 6. Access the application in your web browser at http://localhost:5000.
+
+## Authors
+
+(/3.png)
+
 
 
 
