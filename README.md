@@ -50,3 +50,7 @@ To run the project locally, follow these steps:
    ```bash
    python app.py
 
+6. Access the application in your web browser at http://localhost:5000.
+
+
+
