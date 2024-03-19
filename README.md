@@ -52,7 +52,7 @@ To run the project locally, follow these steps:
 
 ## Authors
 
-| ![Pet Adoption Hub](/3.png) |
+![Pet Adoption Hub](/3.png)
 
 
 
