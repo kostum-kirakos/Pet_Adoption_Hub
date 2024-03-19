@@ -31,3 +31,22 @@ To run the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/pet-adoption-hub.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd pet-adoption-hub
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Set up environment variables:
+   - Create a .env file in the project root.
+   - Add your SMTP server credentials:
+   ```bash
+   SMTP_HOST=your-smtp-host
+   SMTP_PORT=your-smtp-port
+   SMTP_USERNAME=your-smtp-username
+   SMTP_PASSWORD=your-smtp-password
+5. Run the application:
+   ```bash
+   python app.py
+
