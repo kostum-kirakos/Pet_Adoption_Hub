@@ -1,4 +1,4 @@
-| ![Pet Adoption Hub](/path/to/pet-adoption-hub.png) | # Pet Adoption Hub |
+| ![Pet Adoption Hub](/1.png) | # Pet Adoption Hub |
 |---|---|
 
 Welcome to the Pet Adoption Hub! This project aims to connect adoptable pets with loving homes by providing a platform for shelters and rescue organizations to list their animals for adoption.
