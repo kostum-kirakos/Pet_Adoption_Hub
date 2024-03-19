@@ -52,7 +52,7 @@ To run the project locally, follow these steps:
 
 ## Authors
 
-(/3.png)
+!(/3.png)
 
 
 
