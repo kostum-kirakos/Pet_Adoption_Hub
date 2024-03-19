@@ -63,12 +63,14 @@ def send_email():
     """
     msg.attach(MIMEText(body, 'html'))
 
+     # Sending the email
     mailserver = smtplib.SMTP('localhost', 1025)
     mailserver.login('', '')
     mailserver.sendmail(from_email, to_email, msg.as_string())
     mailserver.quit()
 
     return "Email sent successfully!"
-
+    
+# Running the Flask app
 if __name__ == '__main__':
     app.run(debug=True, port=5500)
